@@ -1,0 +1,4 @@
+REGISTERED:('Nirav ', 'ketcup', 1, 'Cash')
+REGISTERED:('RUPABEN', 'VIM liquid', 2, 'CASH')
+REGISTERED:('MURGI', 'BIRYAMI', 4, 'upi')
+REGISTERED:('Nirav', 'Ketchup', 2, 'cash')
