@@ -1,5 +1,5 @@
 N = [10,16,17,18,19,15]
 for i in N:
     if i % 5==0:
-        continue
+       continue
     print(i)
