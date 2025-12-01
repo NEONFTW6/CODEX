@@ -6,4 +6,3 @@ while value>0:
     result= result+1
     print(result,end=" ") 
 
-
