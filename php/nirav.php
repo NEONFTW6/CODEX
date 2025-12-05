@@ -1,3 +1,3 @@
 <?php
-echo '<h1>Hello nirav</h1>';
+echo '<h1 style="text-align: center;">Hello nirav</h1>';
 ?>
